@@ -1,0 +1,31 @@
+
+
+h1 {
+    color: rgb(24, 179, 99);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+p {
+    color: #333333;
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 20px auto;
+    max-width: 600px;
+}
+a {
+    color: blue;
+    text-decoration: none;
+    font-size: 30px;
+    border: 2px solid rgb(8, 63, 227);
+    padding: 10px;
+  
+}
+
+img {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 100%;
+    height: auto;
+    
+}
